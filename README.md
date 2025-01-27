@@ -17,4 +17,4 @@ Here’s an example chart comparing actual and predicted prices:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+   git clone https://github.com/rosltahel/house-price-prediction.git
