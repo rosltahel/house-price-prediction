@@ -11,9 +11,8 @@ This project predicts house prices using Linear Regression and Random Forest mod
 
 ## Results
 Here’s an example chart comparing actual and predicted prices:
+![Chart](chart.png)
 
-[لقطة شاشة 2025-01-27 000056](https://github.com/user-attachments/assets/3dd6250c-283f-452e-8ef0-f7ce330d890d)![Chart]
-t.png)
 
 ## How to Run
 1. Clone the repository:
